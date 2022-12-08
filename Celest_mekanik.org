@@ -292,24 +292,10 @@ $$\boxed{F_G = G \cdot \frac{M \cdot m}{r^2}\,,}$$
 <iframe width="600" height="400" src="https://www.youtube.com/embed/QVuU2YCwHjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 
+#+reveal_html: <div style="font-size: 60%;">
 Linket er https://youtu.be/QVuU2YCwHjw
 
-#+reveal: split
-
-#+begin_export html
-<iframe
-width="600"
-height="500"
-src="https://editor.p5js.org/jcponce/full/x-Jt7k2fc"
-title=""
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen>
-</iframe>
-#+end_export
-
-#+reveal_html: <div style="font-size: 60%;">
-Man kan tilgå det som en hjemmeside for sig: [[https://editor.p5js.org/jcponce/full/x-Jt7k2fc]]
+Se mere sjov her: https://editor.p5js.org/jcponce/full/x-Jt7k2fc
 
 * Johannes Kepler (1571 - 1630)
 
