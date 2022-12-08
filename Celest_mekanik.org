@@ -37,7 +37,7 @@ Cirkelbevægelser!
 
 #+DOWNLOADED: screenshot @ 2020-12-02 13:05:48
 #+attr_html: :width 500px
-[[file:img/2020-12-02_13-05-48_screenshot.png]]
+[[./ggb/Cirkelbevaegelse.ggb][file:img/2020-12-02_13-05-48_screenshot.png]]
 
 
 ** Position
@@ -182,7 +182,7 @@ Hvor hurtigt drejer hjulene rundt?
 
 #+BEGIN_EXPORT html
 <video controls width="600">
-<source src="./cykel.mp4" type="video/mp4">
+<source src="./videos/cykel.mp4" type="video/mp4">
 </video>
 #+END_EXPORT
 
@@ -202,7 +202,7 @@ Hvad er vingespidsernes fart?
 
 #+BEGIN_EXPORT html
 <video controls width="600">
-<source src="./horns_rev_2.mp4" type="video/mp4">
+<source src="./videos/horns_rev_2.mp4" type="video/mp4">
 </video>
 #+END_EXPORT
 
@@ -220,7 +220,7 @@ Hvor højt ligger en geostationær satellit over Jordens overflade?
 
 #+BEGIN_EXPORT html
 <video controls width="600">
-<source src="./geostationaer_bane.mp4" type="video/mp4">
+<source src="./videos/geostationaer_bane.mp4" type="video/mp4">
 </video>
 #+END_EXPORT
 
@@ -274,8 +274,7 @@ $$\boxed{F_G = G \cdot \frac{M \cdot m}{r^2}\,,}$$
 
 ** Leg med epicirkler
 
-
-file:img/2020-11-23_16-29-46_screenshot.png
+[[./ggb/epicirkler.ggb][file:img/2020-11-23_16-29-46_screenshot.png]]
 
 ** Epicirkler kan beskrive et geocentrisk verdensbillede
 
@@ -294,6 +293,24 @@ file:img/2020-11-23_16-29-46_screenshot.png
 #+end_export
 
 Linket er https://youtu.be/QVuU2YCwHjw
+
+#+reveal: split
+
+#+begin_export html
+<iframe
+width="600"
+height="500"
+src="https://editor.p5js.org/jcponce/full/x-Jt7k2fc"
+title=""
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+#+end_export
+
+#+reveal_html: <div style="font-size: 60%;">
+Man kan tilgå det som en hjemmeside for sig: [[https://editor.p5js.org/jcponce/full/x-Jt7k2fc]]
+
 * Johannes Kepler (1571 - 1630)
 
 #+reveal_html: <div style="font-size: 60%;">
@@ -546,7 +563,7 @@ v_a  &= 3297 \,km/h = 916 \, m/s.
 ** Merkurs bane
 
 #+attr_html: :height 550px
-[[file:img/2021-11-28_16-05-43_screenshot.png]]
+[[./Opgave_Merkurbanen.pdf][file:img/2021-11-28_16-05-43_screenshot.png]]
 
 *** Elongationer
 #+attr_html: :height 400px
